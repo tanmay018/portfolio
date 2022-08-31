@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-1240 -1637)">
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-1" transform="translate(1240 1637)">
+      <rect class="cls-2" width="1000" height="1000"/>
+      <rect class="cls-3" x="1" y="1" width="998" height="998"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" class="cls-1" transform="translate(1290 1687)">
+      <rect class="cls-2" width="900" height="900"/>
+      <rect class="cls-3" x="1" y="1" width="898" height="898"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-1" transform="translate(1340 1737)">
+      <rect class="cls-2" width="800" height="800"/>
+      <rect class="cls-3" x="1" y="1" width="798" height="798"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-1" transform="translate(1390 1787)">
+      <rect class="cls-2" width="700" height="700"/>
+      <rect class="cls-3" x="1" y="1" width="698" height="698"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" class="cls-1" transform="translate(1440 1837)">
+      <rect class="cls-2" width="600" height="600"/>
+      <rect class="cls-3" x="1" y="1" width="598" height="598"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" class="cls-1" transform="translate(1490 1887)">
+      <rect class="cls-2" width="500" height="500"/>
+      <rect class="cls-3" x="1" y="1" width="498" height="498"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" class="cls-1" transform="translate(1540 1937)">
+      <rect class="cls-2" width="400" height="400"/>
+      <rect class="cls-3" x="1" y="1" width="398" height="398"/>
+    </g>
+    <g id="Rectangle_9" data-name="Rectangle 9" class="cls-1" transform="translate(1590 1987)">
+      <rect class="cls-2" width="300" height="300"/>
+      <rect class="cls-3" x="1" y="1" width="298" height="298"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" class="cls-1" transform="translate(1640 2037)">
+      <rect class="cls-2" width="200" height="200"/>
+      <rect class="cls-3" x="1" y="1" width="198" height="198"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" class="cls-1" transform="translate(1690 2087)">
+      <rect class="cls-2" width="100" height="100"/>
+      <rect class="cls-3" x="1" y="1" width="98" height="98"/>
+    </g>
+  </g>
+</svg>
